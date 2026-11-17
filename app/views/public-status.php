@@ -1,0 +1,1 @@
+<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title><?=e($title)?></title><link rel="stylesheet" href="<?=e(url('/assets/app.css'))?>"></head><body class="status-page"><section><span class="brand-mark">⌁</span><h1><?=e($title)?></h1><p><?=e($message)?></p></section></body></html>
